@@ -1,0 +1,32 @@
+hey, guys how you doing...
+
+you should do some small steps before uploading the code on Arduino.
+
+1 - copy (Delay, LedControl) libraries from lib file and paste it in Arduino IDE libraries folder replace 
+any existing file if any.
+
+2 - make connections as showing in the connections image file.
+
+3 - copy the code from the arduino_code.txt file and paste it into a new project or just open the project file 
+in the Hourglass_project folder.
+
+4 - verify the code and make sure that everything is ok.
+
+5 - upload the code and enjoy the magic .
+
+find me on >>
+
+https://www.facebook.com/SafiSoft.programming
+
+https://www.youtube.com/channel/UCtC8eqUUZmktsUoFznAL91w
+
+https://www.instagram.com/safisoft.programming
+
+https://github.com/SafiSoftProgramming
+
+
+
+>>>>>>>>>
+****** special thanks for Fabrizio Branca ******
+https://github.com/fbrnc/Arduino_Hourglass
+>>>>>>>>>
